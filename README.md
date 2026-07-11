@@ -1,139 +1,168 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Aditya%20Ingale&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Aditya%20Ingale&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1200&center=true&vCenter=true&width=800&lines=AI+Engineer;Generative+AI+Developer;Open+Source+Contributor;Building+AI+Agents;FastAPI+%7C+LangChain+%7C+Python"/>
+<br>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Adityai1411&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Adityai1411?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/Adityai1411?affiliations=OWNER&style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Generative+AI+Developer;Open+Source+Contributor;Building+LLMs+%26+AI+Agents;FastAPI+%7C+Python+%7C+LangChain;Always+Learning+Something+New"/>
+
+<br><br>
+
+<a href="https://github.com/Adityai1411">
+<img src="https://img.shields.io/github/followers/Adityai1411?style=for-the-badge&logo=github&color=181717"/>
+</a>
+
+<a href="https://github.com/Adityai1411">
+<img src="https://img.shields.io/github/stars/Adityai1411?style=for-the-badge&logo=github&color=181717"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Adityai1411&style=for-the-badge&color=blue"/>
+
+<a href="https://www.linkedin.com/in/ingaleaditya1411">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://aditya-ingale-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
 </div>
 
 ---
 
-## About
+# About
 
-Computer Science graduate focused on Artificial Intelligence, Generative AI, Agentic AI and scalable backend systems. I enjoy building production-ready AI applications, contributing to open source, and solving real-world engineering problems.
+Computer Science graduate with a strong interest in Artificial Intelligence, Generative AI, Agentic AI, and scalable backend engineering.
+
+I enjoy designing production-ready AI applications using FastAPI, LangChain, Docker, Azure AI, and modern LLM frameworks. My work focuses on building intelligent systems that solve practical problems while emphasizing clean architecture, maintainability, and performance.
+
+Currently expanding my expertise through open-source contributions and hands-on AI engineering projects.
 
 ---
 
-## Current Focus
+# Current Focus
 
 <table>
+
 <tr>
+
 <td width="50%">
 
-- Open Source Contributions
+### Building
+
+- Production AI Applications
 - AI Agents
-- LangChain
-- FastAPI
-- Azure AI
-- Docker
+- Retrieval-Augmented Generation
+- FastAPI Services
+- LangChain Pipelines
+- Azure AI Solutions
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adityai1411&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Learning
+
+- LangGraph
+- Multi-Agent Systems
+- LLM Optimization
+- Kubernetes
+- MLOps
+- Distributed AI Systems
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-## Tech Stack
+# Tech Stack
+
+### Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,docker,git,github,linux,azure,mongodb,postgres,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css"/>
 
 </p>
 
 ---
 
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| FinanceBot | AI-powered financial assistant using LangChain and FastAPI |
-| ChurnGuard | End-to-end ML platform with SHAP and XGBoost |
-| AI Product Customizer | Stable Diffusion powered image generation |
-| ProConnect | AI Resume Analyzer with FastAPI and React |
-
----
-
-## GitHub Analytics
+### AI / Machine Learning
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adityai1411&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityai1411&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
 </p>
 
 <p align="center">
 
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityai1411&theme=tokyo-night&hide_border=true"/>
+FastAPI • LangChain • OpenAI • Hugging Face • Scikit-Learn • Pandas • NumPy • XGBoost • MLflow • Streamlit
 
 </p>
 
 ---
 
-## Languages
+### Cloud & DevOps
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityai1411&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,postgres,mongodb,vscode"/>
 
 </p>
 
 ---
 
-## Achievements
+### Development Workflow
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Adityai1411&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
+```text
+Idea
+ │
+ ▼
+Research
+ │
+ ▼
+Architecture
+ │
+ ▼
+Development
+ │
+ ▼
+Testing
+ │
+ ▼
+Deployment
+ │
+ ▼
+Continuous Improvement
+```
 
 ---
 
-## Contribution Animation
+# Areas of Interest
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Adityai1411/Adityai1411/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+| Domain | Technologies |
+|---------|--------------|
+| Artificial Intelligence | LLMs, AI Agents, RAG |
+| Machine Learning | XGBoost, SHAP, Scikit-Learn |
+| Backend Development | FastAPI, REST APIs |
+| Cloud Computing | Azure AI |
+| DevOps | Docker, GitHub Actions |
+| Open Source | Python Ecosystem |
 
 ---
-
-## Connect
-
-<p align="center">
-
-<a href="https://aditya-ingale-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ingaleaditya1411">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:ingaleaditya1411@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityai1411&theme=github_dark"/>
 
 </div>
+
+---
+
+> "Build software that solves real problems, contribute to open source, and never stop learning."
+
+---
