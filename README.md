@@ -166,142 +166,91 @@ Continuous Improvement
 > "Build software that solves real problems, contribute to open source, and never stop learning."
 
 ---
-# Featured Projects
-
-<div align="center">
+## Featured Projects
 
 <table>
-
 <tr>
 
 <td width="50%">
 
-## FinanceBot
+### FinanceBot
 
-AI-powered investment analysis platform built using ReAct Agents, LangChain and FastAPI.
+AI-powered investment analysis platform using Agentic AI.
 
-**Tech**
+**Stack**
 
-`Python` `LangChain` `FastAPI` `LLMs` `Docker`
+`Python` `FastAPI` `LangChain` `Docker`
 
-<br>
+Production-ready financial assistant using ReAct Agents and LLMs.
 
 <a href="https://github.com/Adityai1411/FinanceBot">
-View Repository →
+Repository →
 </a>
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityai1411&repo=FinanceBot&theme=tokyonight&hide_border=true"/>
+### ChurnGuard
 
-</td>
+Customer churn prediction platform.
 
-</tr>
+**Stack**
 
-</table>
+`Python`
+`FastAPI`
+`XGBoost`
+`SHAP`
 
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## ChurnGuard
-
-Production-ready ML system for customer churn prediction with explainable AI.
-
-**Tech**
-
-`Python` `FastAPI` `XGBoost` `SHAP` `Docker`
-
-<br>
+Explainable AI with production deployment.
 
 <a href="https://github.com/Adityai1411/churn-guard">
-View Repository →
+Repository →
 </a>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityai1411&repo=churn-guard&theme=tokyonight&hide_border=true"/>
 
 </td>
 
 </tr>
 
-</table>
-
----
-
-<table>
-
 <tr>
 
 <td width="50%">
 
-## ProConnect
+### ProConnect
 
-Full-stack AI Resume Analyzer with intelligent chatbot and resume insights.
+AI Resume Analyzer.
 
-**Tech**
+**Stack**
 
-`Python` `FastAPI` `React` `SQLAlchemy`
-
-<br>
+`FastAPI`
+`React`
+`Groq`
+`SQLAlchemy`
 
 <a href="https://github.com/Adityai1411/Proconnect">
-View Repository →
+Repository →
 </a>
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityai1411&repo=Proconnect&theme=tokyonight&hide_border=true"/>
+### AI Product Customizer
 
-</td>
+Generative AI desktop application.
 
-</tr>
+**Stack**
 
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## AI Product Customizer
-
-Desktop Generative AI application for personalized product image generation.
-
-**Tech**
-
-`Python` `PyQt5` `Stable Diffusion` `OpenCV`
-
-<br>
+`Python`
+`PyQt5`
+`Stable Diffusion`
 
 <a href="https://github.com/Adityai1411/AI-Product-Customizer-project">
-View Repository →
+Repository →
 </a>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityai1411&repo=AI-Product-Customizer-project&theme=tokyonight&hide_border=true"/>
 
 </td>
 
 </tr>
 
 </table>
-
-</div>
