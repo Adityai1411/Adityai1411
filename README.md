@@ -178,17 +178,17 @@ Continuous Improvement
 
 ## FinanceBot
 
-AI-powered financial analysis assistant designed using Agentic AI principles.
+AI-powered investment analysis platform built using ReAct Agents, LangChain and FastAPI.
 
-#### Highlights
+**Tech**
 
-- LangChain ReAct Agent
-- FastAPI Backend
-- Hugging Face Transformers
-- Financial Market Analysis
-- Sentiment Analysis
-- Modular Tool Architecture
-- Docker Deployment
+`Python` `LangChain` `FastAPI` `LLMs` `Docker`
+
+<br>
+
+<a href="https://github.com/Adityai1411/FinanceBot">
+View Repository →
+</a>
 
 </td>
 
@@ -202,11 +202,7 @@ AI-powered financial analysis assistant designed using Agentic AI principles.
 
 </table>
 
-</div>
-
 ---
-
-<div align="center">
 
 <table>
 
@@ -216,23 +212,23 @@ AI-powered financial analysis assistant designed using Agentic AI principles.
 
 ## ChurnGuard
 
-End-to-end machine learning platform for predicting SaaS customer churn.
+Production-ready ML system for customer churn prediction with explainable AI.
 
-#### Highlights
+**Tech**
 
-- XGBoost
-- SHAP Explainability
-- MLflow
-- Optuna
-- FastAPI
-- Streamlit
-- Docker
+`Python` `FastAPI` `XGBoost` `SHAP` `Docker`
+
+<br>
+
+<a href="https://github.com/Adityai1411/churn-guard">
+View Repository →
+</a>
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityai1411&repo=ChurnGuard&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityai1411&repo=churn-guard&theme=tokyonight&hide_border=true"/>
 
 </td>
 
@@ -240,47 +236,7 @@ End-to-end machine learning platform for predicting SaaS customer churn.
 
 </table>
 
-</div>
-
 ---
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## AI Product Customizer
-
-Generative AI application that creates customized product visuals using Stable Diffusion.
-
-#### Highlights
-
-- Stable Diffusion
-- Image Generation
-- Background Removal
-- PyTorch
-- GPU Acceleration
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityai1411&repo=AI-Product-Customizer&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
 
 <table>
 
@@ -290,21 +246,23 @@ Generative AI application that creates customized product visuals using Stable D
 
 ## ProConnect
 
-AI-powered Resume Analyzer with modern web technologies.
+Full-stack AI Resume Analyzer with intelligent chatbot and resume insights.
 
-#### Highlights
+**Tech**
 
-- React
-- FastAPI
-- Groq API
-- SQLAlchemy
-- Resume Intelligence
+`Python` `FastAPI` `React` `SQLAlchemy`
+
+<br>
+
+<a href="https://github.com/Adityai1411/Proconnect">
+View Repository →
+</a>
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityai1411&repo=ProConnect&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityai1411&repo=Proconnect&theme=tokyonight&hide_border=true"/>
 
 </td>
 
@@ -312,78 +270,33 @@ AI-powered Resume Analyzer with modern web technologies.
 
 </table>
 
-</div>
-
 ---
-
-# Open Source
-
-I actively contribute to open-source software and continuously improve my engineering skills by collaborating with the community.
-
-### Current Interests
-
-- LangChain Ecosystem
-- LLM Compressor
-- AI Infrastructure
-- Python Libraries
-- Backend Engineering
-- Developer Tools
-
----
-
-# Experience
-
-```text
-Computer Science Graduate
-                │
-                ▼
-Generative AI Internship
-                │
-                ▼
-Production AI Projects
-                │
-                ▼
-Open Source Contributions
-                │
-                ▼
-AI Engineering
-```
-
----
-
-# Certifications
 
 <table>
 
 <tr>
 
-<td>
+<td width="50%">
 
-Microsoft Certified
+## AI Product Customizer
 
-Azure AI Apps and Agents Developer Associate
+Desktop Generative AI application for personalized product image generation.
 
-</td>
+**Tech**
 
-<td>
+`Python` `PyQt5` `Stable Diffusion` `OpenCV`
 
-IBM AI Engineering Professional Certificate
+<br>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Google AI Programs
+<a href="https://github.com/Adityai1411/AI-Product-Customizer-project">
+View Repository →
+</a>
 
 </td>
 
-<td>
+<td width="50%">
 
-Generative AI Certifications
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityai1411&repo=AI-Product-Customizer-project&theme=tokyonight&hide_border=true"/>
 
 </td>
 
@@ -391,66 +304,4 @@ Generative AI Certifications
 
 </table>
 
----
-
-# Core Competencies
-
-| Area | Skills |
-|------|--------|
-| AI Engineering | LLMs, Agentic AI, RAG |
-| Machine Learning | XGBoost, SHAP, Scikit-Learn |
-| Backend | FastAPI, REST APIs |
-| Programming | Python, Java, C++ |
-| Cloud | Azure AI |
-| DevOps | Docker, GitHub Actions |
-
----
-
-# Engineering Principles
-
-```text
-Write Clean Code
-
-↓
-
-Build Reusable Components
-
-↓
-
-Design Scalable Systems
-
-↓
-
-Automate Everything
-
-↓
-
-Measure Performance
-
-↓
-
-Keep Learning
-```
-
----
-
-# 2026 Goals
-
-- Contribute consistently to open source
-- Publish production-ready AI projects
-- Deepen expertise in Agentic AI
-- Learn Kubernetes and MLOps
-- Build scalable AI systems
-- Collaborate with the developer community
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityai1411&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityai1411&theme=github_dark"/>
-
 </div>
-
----
