@@ -254,3 +254,73 @@ Repository →
 </tr>
 
 </table>
+
+
+
+
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adityai1411&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Adityai1411&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityai1411&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityai1411&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Profile Summary
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adityai1411&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adityai1411&theme=github_dark&utcOffset=5.5"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityai1411&theme=github_dark"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Adityai1411&theme=algolia&column=4&margin-w=20&margin-h=20&no-frame=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Adityai1411/Adityai1411/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
