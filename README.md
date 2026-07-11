@@ -166,3 +166,291 @@ Continuous Improvement
 > "Build software that solves real problems, contribute to open source, and never stop learning."
 
 ---
+# Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## FinanceBot
+
+AI-powered financial analysis assistant designed using Agentic AI principles.
+
+#### Highlights
+
+- LangChain ReAct Agent
+- FastAPI Backend
+- Hugging Face Transformers
+- Financial Market Analysis
+- Sentiment Analysis
+- Modular Tool Architecture
+- Docker Deployment
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityai1411&repo=FinanceBot&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## ChurnGuard
+
+End-to-end machine learning platform for predicting SaaS customer churn.
+
+#### Highlights
+
+- XGBoost
+- SHAP Explainability
+- MLflow
+- Optuna
+- FastAPI
+- Streamlit
+- Docker
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityai1411&repo=ChurnGuard&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## AI Product Customizer
+
+Generative AI application that creates customized product visuals using Stable Diffusion.
+
+#### Highlights
+
+- Stable Diffusion
+- Image Generation
+- Background Removal
+- PyTorch
+- GPU Acceleration
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityai1411&repo=AI-Product-Customizer&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## ProConnect
+
+AI-powered Resume Analyzer with modern web technologies.
+
+#### Highlights
+
+- React
+- FastAPI
+- Groq API
+- SQLAlchemy
+- Resume Intelligence
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityai1411&repo=ProConnect&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# Open Source
+
+I actively contribute to open-source software and continuously improve my engineering skills by collaborating with the community.
+
+### Current Interests
+
+- LangChain Ecosystem
+- LLM Compressor
+- AI Infrastructure
+- Python Libraries
+- Backend Engineering
+- Developer Tools
+
+---
+
+# Experience
+
+```text
+Computer Science Graduate
+                │
+                ▼
+Generative AI Internship
+                │
+                ▼
+Production AI Projects
+                │
+                ▼
+Open Source Contributions
+                │
+                ▼
+AI Engineering
+```
+
+---
+
+# Certifications
+
+<table>
+
+<tr>
+
+<td>
+
+Microsoft Certified
+
+Azure AI Apps and Agents Developer Associate
+
+</td>
+
+<td>
+
+IBM AI Engineering Professional Certificate
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Google AI Programs
+
+</td>
+
+<td>
+
+Generative AI Certifications
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Core Competencies
+
+| Area | Skills |
+|------|--------|
+| AI Engineering | LLMs, Agentic AI, RAG |
+| Machine Learning | XGBoost, SHAP, Scikit-Learn |
+| Backend | FastAPI, REST APIs |
+| Programming | Python, Java, C++ |
+| Cloud | Azure AI |
+| DevOps | Docker, GitHub Actions |
+
+---
+
+# Engineering Principles
+
+```text
+Write Clean Code
+
+↓
+
+Build Reusable Components
+
+↓
+
+Design Scalable Systems
+
+↓
+
+Automate Everything
+
+↓
+
+Measure Performance
+
+↓
+
+Keep Learning
+```
+
+---
+
+# 2026 Goals
+
+- Contribute consistently to open source
+- Publish production-ready AI projects
+- Deepen expertise in Agentic AI
+- Learn Kubernetes and MLOps
+- Build scalable AI systems
+- Collaborate with the developer community
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityai1411&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityai1411&theme=github_dark"/>
+
+</div>
+
+---
