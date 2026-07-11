@@ -307,11 +307,9 @@ Repository →
 
 # GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Adityai1411&theme=algolia&column=4&margin-w=20&margin-h=20&no-frame=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adityai1411&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
+</p>
 
 ---
 
@@ -319,7 +317,7 @@ Repository →
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Adityai1411/Adityai1411/output/github-contribution-grid-snake-dark.svg"/>
+https://raw.githubusercontent.com/Adityai1411/Adityai1411/output/github-contribution-grid-snake-dark.svg
 
 </div>
 
